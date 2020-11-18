@@ -2,5 +2,6 @@ Flask
 Flask-JWT
 Flask-RESTful
 Flask-SQLAlchemy
+pip install python
 pip freeze
 uwsgi
