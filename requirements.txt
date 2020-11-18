@@ -3,5 +3,6 @@ Flask-JWT
 Flask-RESTful
 Flask-SQLAlchemy
 pip install python
+psycopg2
 pip freeze
 uwsgi
